@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/jsp/PublishBlog.jsp=UTF-8
+encoding//WebContent/jsp/articles-list.jsp=UTF-8
+encoding//WebContent/jsp/single.jsp=UTF-8
+encoding//src/com/xuni/chat/client/QQClientUI.java=UTF-8
+encoding//src/com/xuni/web/servlet/DoResistServlet.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
